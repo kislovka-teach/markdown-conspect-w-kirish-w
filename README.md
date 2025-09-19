@@ -54,3 +54,4 @@ $ sudo apt install git
 | git init       | создать новый проект в текущей папке     |
 | git init folder-name       | создать новый проект в указанной папке     |
 | git clone       | клонирование репозитория     |
+
